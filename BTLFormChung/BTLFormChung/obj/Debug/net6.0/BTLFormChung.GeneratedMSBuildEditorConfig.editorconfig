@@ -9,41 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BTLFormChung
 build_property.RootNamespace = BTLFormChung
-build_property.ProjectDir = E:\CNTT5\Nam3_Ki2\Lập trình Web\BTL\BTLFormChung\BTLFormChung\
+build_property.ProjectDir = D:\K2N3\LapTrinhWeb\BTL\GIT\BTLLapTrinhWebN05\BTLFormChung\BTLFormChung\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\CNTT5\Nam3_Ki2\Lập trình Web\BTL\BTLFormChung\BTLFormChung
+build_property.MSBuildProjectDirectory = D:\K2N3\LapTrinhWeb\BTL\GIT\BTLLapTrinhWebN05\BTLFormChung\BTLFormChung
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Home/Index.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Home/Privacy.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Home/PhimDangChieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaGltRGFuZ0NoaWV1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Shared/Error.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Shared/_LayoutRapChieuPhim.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Shared/PartialPhimDangchieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxQaGltRGFuZ2NoaWV1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Shared/_LayoutRapChieuPhim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRSYXBDaGlldVBoaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/_ViewImports.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/_ViewStart.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/CNTT5/Nam3_Ki2/Lập trình Web/BTL/BTLFormChung/BTLFormChung/Views/Shared/_Layout.cshtml]
+[D:/K2N3/LapTrinhWeb/BTL/GIT/BTLLapTrinhWebN05/BTLFormChung/BTLFormChung/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fehfup07pi

@@ -1,0 +1,1177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BTLFormChung.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTLFormChung.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_autoFolded.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_autoFolded.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_booking.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_booking.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_button.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_cinemaworld.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_cinemaworld.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_colors.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_comment.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_comment.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_common.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_crm.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_crm.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_detail.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_detail.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_elements.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_error.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_header.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_home.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_home.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_icon.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_icon.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_login.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_offerevent.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_offerevent.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_page.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_page.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_search.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_search.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_showtimes.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_showtimes.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_subscription.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_subscription.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_support.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_support.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_theaterticket.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_theaterticket.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_ticket.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_ticket.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_trailer.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_trailer.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\assets_website\\scss\\_watchmovie.scss",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\assets_website\\scss\\_watchmovie.scss"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\customjs-min\\firebase-setup.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\customjs-min\\firebase-setup.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\customjs-min\\lazyload.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\customjs-min\\lazyload.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\customjs-min\\loadCss.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\customjs-min\\loadCss.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\dat-ve\\demon-slayer-to-the-swordsmith-village.html",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\dat-ve\\demon-slayer-to-the-swordsmith-village.html"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\dien-vien\\chitietdienvien.html",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\dien-vien\\chitietdienvien.html"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js-app\\another.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js-app\\another.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js-app\\app.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js-app\\app.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js-app\\grpc.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js-app\\grpc.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js-app\\vendor.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js-app\\vendor.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js-min\\moment.min.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js-min\\moment.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js\\axios.min.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js\\axios.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\js\\lodash-merge.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\js\\lodash-merge.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\phim\\biet-doi-rat-on.html",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\phim\\biet-doi-rat-on.html"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\normalize.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\css\\screen.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\css\\screen.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\galaxy-logo-footer.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\galaxy-logo-footer.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\galaxy-logo.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\galaxy-logo.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\glx_trade.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\glx_trade.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\ic-c13.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\ic-c13.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\ic-c16.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\ic-c16.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\ic-c18.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\ic-c18.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\ic-view.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\ic-view.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\ic_star_yellow.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\ic_star_yellow.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\line-menu.png",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\line-menu.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\template-banner.jpg",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\template-banner.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\template-logo.jpg",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\template-logo.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\template-post.jpg",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\template-post.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\template-promo.jpg",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\template-promo.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\images\\template-show.jpg",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\images\\template-show.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js-min\\dependencies\\bootstrap.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js-min\\dependencies\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js-min\\dependencies\\jquery.bcSwipe.min.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js-min\\dependencies\\jquery.bcSwipe.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js-min\\dependencies\\jquery.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js-min\\dependencies\\jquery.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js-min\\dependencies\\underscore.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js-min\\dependencies\\underscore.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js-min\\main.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js-min\\main.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\js\\dependencies\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\js\\dependencies\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\RapChieuPhim\\website\\main.css",
+      "PackagePath": "staticwebassets\\RapChieuPhim\\website\\main.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\6-45.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\6-45.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\BED-REST.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\BED-REST.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\BTS-YET-TO-COME-IN-CINEMAS.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\BTS-YET-TO-COME-IN-CINEMAS.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\CHUYEN-XOM-TOI-CON-NHO-MOT-CHONG.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\CHUYEN-XOM-TOI-CON-NHO-MOT-CHONG.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\CONSECRATION.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\CONSECRATION.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\DITTO.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\DITTO.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\FAST-X.webp",
+      "PackagePath": "staticwebassets\\film\\images\\FAST-X.webp"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\KAMEN-RIDER.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\KAMEN-RIDER.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\KHI-TA-HAI-LAM.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\KHI-TA-HAI-LAM.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\KNOCK-AT-THE-CABIN.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\KNOCK-AT-THE-CABIN.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\MY-FAIRY-TROUBLEMAKER.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\MY-FAIRY-TROUBLEMAKER.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\PLANE.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\PLANE.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\QODRAT.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\QODRAT.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\RENFIELD.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\RENFIELD.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\SOMEDAY-OR-ONEDAY.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\SOMEDAY-OR-ONEDAY.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\SWITCH.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\SWITCH.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\SWORD-ART-ONLINE-THE-MOVIE-PROGRESSIVE-SCHERZO-OF-DEEP-NIGHT.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\SWORD-ART-ONLINE-THE-MOVIE-PROGRESSIVE-SCHERZO-OF-DEEP-NIGHT.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\THAT-TIME-I-GOT-REINCARNATED-AS-A-SLIME-THE-MOVIE-SCARLET-BOND.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\THAT-TIME-I-GOT-REINCARNATED-AS-A-SLIME-THE-MOVIE-SCARLET-BOND.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\THE-FABELMANS.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\THE-FABELMANS.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\THE-POINT-MEN.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\THE-POINT-MEN.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\THE-SUPER-MARIO-BROS-MOVIE.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\THE-SUPER-MARIO-BROS-MOVIE.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\TINH-NGUOI-DUYEN-MA-2-MAE-NAK-HOI-SINH.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\TINH-NGUOI-DUYEN-MA-2-MAE-NAK-HOI-SINH.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\VONG-NHI.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\VONG-NHI.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\amsterdam.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\amsterdam.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\big-trip-2.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\big-trip-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\come-back-home.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\come-back-home.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\confession.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\confession.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\confidential-asignment-2-international.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\confidential-asignment-2-international.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\crayon-shinchan.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\crayon-shinchan.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\cuoc-chien-thoi-tien-su.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\cuoc-chien-thoi-tien-su.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\decibel.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\decibel.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\dont-look-at-the-demon.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\dont-look-at-the-demon.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\dont-worry-darling.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\dont-worry-darling.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\evangelion-3.0+1.01-thrice-upon-a-time.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\evangelion-3.0+1.01-thrice-upon-a-time.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\gangnamthatthu.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\gangnamthatthu.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\gotoubun-no-hanayome.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\gotoubun-no-hanayome.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\gulliver-returns.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\gulliver-returns.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\hanh-phuc-mau.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\hanh-phuc-mau.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\happy-ending.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\happy-ending.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\isekai-quartet-the-movie-another-world.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\isekai-quartet-the-movie-another-world.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\jailangkung.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\jailangkung.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\jeepers-creepers-reborn.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\jeepers-creepers-reborn.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\life-is-beautiful.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\life-is-beautiful.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\lyle-lyle-crocodile.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\lyle-lyle-crocodile.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\m3gan.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\m3gan.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\mal-de-ojo.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\mal-de-ojo.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\memento-mori-dat.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\memento-mori-dat.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\men-of-plastic-hanquoc.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\men-of-plastic-hanquoc.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\midnight-horror.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\midnight-horror.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\missing.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\missing.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\mummies.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\mummies.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\nha-ba-nu.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\nha-ba-nu.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\nix.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\nix.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\oh-my-girl.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\oh-my-girl.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\prey-for-the-devil.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\prey-for-the-devil.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\rasuk.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\rasuk.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\satans-slaves-2.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\satans-slaves-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\semantic-error.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\semantic-error.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\shin-ultraman.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\shin-ultraman.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\sieu-lua-gap-sieu-lay.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\sieu-lua-gap-sieu-lay.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\take-care-of-my-mom.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\take-care-of-my-mom.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-amazing-maurice.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-amazing-maurice.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-lake.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-lake.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-lockdown-hauntings.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-lockdown-hauntings.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-night-owl-hanquoc.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-night-owl-hanquoc.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-real-ghost.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-real-ghost.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\the-woman-king.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\the-woman-king.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\images\\tro-choi-tu-than.jpg",
+      "PackagePath": "staticwebassets\\film\\images\\tro-choi-tu-than.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Charlize-Theron-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Charlize-Theron-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Charlize-Theron-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Charlize-Theron-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Charlize-Theron-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Charlize-Theron-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Charlize-Theron-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Charlize-Theron-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Charlize-Theron.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Charlize-Theron.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans-6.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans-6.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Chris-Evans.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Chris-Evans.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Dwayne-Johnson-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Dwayne-Johnson-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Dwayne-Johnson-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Dwayne-Johnson-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Dwayne-Johnson-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Dwayne-Johnson-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Dwayne-Johnson-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Dwayne-Johnson-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Dwayne-Johnson.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Dwayne-Johnson.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jared-Leto-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jared-Leto-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jared-Leto-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jared-Leto-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jared-Leto-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jared-Leto-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jared-Leto.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jared-Leto.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jennifer-Lawrence-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jennifer-Lawrence-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jennifer-Lawrence-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jennifer-Lawrence-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jennifer-Lawrence-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jennifer-Lawrence-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jennifer-Lawrence-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jennifer-Lawrence-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Jennifer-Lawrence.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Jennifer-Lawrence.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp-6.png",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp-6.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Johnny-Depp.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Johnny-Depp.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Robert Downey Jr-5.png",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Robert Downey Jr-5.png"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Robert-Downey Jr-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Robert-Downey Jr-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Robert-Downey Jr-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Robert-Downey Jr-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Robert-Downey-Jr-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Robert-Downey-Jr-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Robert-Downey-Jr.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Robert-Downey-Jr.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett Johansson.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett Johansson.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett-Johansson-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett-Johansson-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett-Johansson-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett-Johansson-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett-Johansson-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett-Johansson-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett-Johansson-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett-Johansson-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Scarlett-Johansson-6.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Scarlett-Johansson-6.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\Thu-Trang.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\Thu-Trang.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\anne-hathaway-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\anne-hathaway-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\anne-hathaway-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\anne-hathaway-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\anne-hathaway-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\anne-hathaway-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\anne-hathaway-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\anne-hathaway-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\anne-hathaway.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\anne-hathaway.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\ben-affleck-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\ben-affleck-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\ben-affleck-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\ben-affleck-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\ben-affleck-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\ben-affleck-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\ben-affleck-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\ben-affleck-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\ben-affleck.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\ben-affleck.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pine-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pine-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pine-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pine-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pine-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pine-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pine.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pine.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pratt-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pratt-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pratt-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pratt-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pratt-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pratt-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pratt-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pratt-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\chris-pratt.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\chris-pratt.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\hari-won.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\hari-won.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\hoai-linh.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\hoai-linh.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\huu-chau.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\huu-chau.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\kha-nhu.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\kha-nhu.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\kieu-minh-tuan.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\kieu-minh-tuan.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\leonardo-dicaprio-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\leonardo-dicaprio-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\leonardo-dicaprio-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\leonardo-dicaprio-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\leonardo-dicaprio-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\leonardo-dicaprio-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\leonardo-dicaprio.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\leonardo-dicaprio.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\mark-ruffalo-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\mark-ruffalo-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\mark-ruffalo-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\mark-ruffalo-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\mark-ruffalo-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\mark-ruffalo-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\mark-ruffalo.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\mark-ruffalo.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\quang-dang.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\quang-dang.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise-4 .jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise-4 .jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise-5.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise-5.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tom-cruise.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tom-cruise.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\tran-thanh.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\tran-thanh.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\vin-dierel-1.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\vin-dierel-1.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\vin-dierel-2.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\vin-dierel-2.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\vin-dierel-3.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\vin-dierel-3.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\vin-dierel-4.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\vin-dierel-4.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\film\\imgDienVien\\vin-diesel.jpg",
+      "PackagePath": "staticwebassets\\film\\imgDienVien\\vin-diesel.jpg"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\K2N3\\LapTrinhWeb\\BTL\\GIT\\BTLLapTrinhWebN05\\BTLFormChung\\BTLFormChung\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BTLFormChung.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BTLFormChung.props",
+      "PackagePath": "build\\BTLFormChung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLFormChung.props",
+      "PackagePath": "buildMultiTargeting\\BTLFormChung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BTLFormChung.props",
+      "PackagePath": "buildTransitive\\BTLFormChung.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

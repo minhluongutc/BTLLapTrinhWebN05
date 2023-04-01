@@ -1,8 +1,40 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutRapChieuPhim.cshtml";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Phim>
+
+@foreach (var item in Model)
+{
+    <div class="col-md-4 col-sm-4 col-xs-6 movie-item">
+        <div class="article-movie-home">
+            <img src="website/images/template-show.jpg" data-src="https://cdn.galaxycine.vn/media/2023/2/10/shazam-2_1675998615953.jpg" class="lazy" />
+            <a href="../RapChieuPhim/dat-ve/demon-slayer-to-the-swordsmith-village.html">
+                <div class="decription-hover overlay">
+                    <div class="movies-content">
+                        <i class="icon-c13"></i>
+                        <div class="group">
+                            <div class="btn secondary-white">mua vé</div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <!--article.article-movie(style='background-image: url(#{item.imageLandscape})')-->
+        <!--  figure-->
+        <!--    figcaption.overlay-->
+        <!--      .movies-content-->
+        <!--        i(class='#{getIcon(item.age)}')-->
+        <!--        .group-->
+        <!--          a.btn.secondary-white(href='#{getUrlMovieDetail(item.slug)}') #{i18n('mua vé')}-->
+        <div class="title-movie">
+            <h4 class="upper-text">Shazam! Fury Of The Gods</h4>
+            <h4 class="vn upper-text">Shazam! Cơn Thịnh Nộ Của Các Vị Thần</h4>
+        </div>
+    </div>
+}
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page=>Url.Action("Index", new{page=page}))
 </div>
