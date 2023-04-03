@@ -1,4 +1,5 @@
-﻿using BTLFormChung.Models;
+﻿using Azure;
+using BTLFormChung.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
@@ -19,23 +20,35 @@ namespace BTLFormChung.Controllers
 
         public IActionResult Index(int? page)
         {
+            var today = DateTime.Today;
             int pageSize = 6;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
-            var lstsanpham = db.Phims.AsNoTracking().OrderBy(x => x.TenPhim);
+            var lstsanpham = db.Phims
+                .AsNoTracking()
+                .Where(x => x.NgayKhoiChieu < today)
+                .OrderByDescending(x => x.NgayKhoiChieu)
+                .ToList();
             PagedList<Phim> lst = new PagedList<Phim>(lstsanpham, pageNumber, pageSize);
 
             return View(lst);
         }
 
-        public IActionResult PhimDangChieu(int? page)
-        {
-            int pageSize = 9;
-            int pageNumber = page == null || page < 0 ? 1 : page.Value;
-            var lstsanpham = db.Phims.AsNoTracking().OrderBy(x => x.TenPhim);
-            PagedList<Phim> lst = new PagedList<Phim>(lstsanpham, pageNumber, pageSize);
-            return View();
-        }
 
+        public IActionResult _LayoutPhimDangChieu(int ? page)
+        {
+            var today = DateTime.Today;
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.Phims
+                .AsNoTracking()
+                .Where(x => x.NgayKhoiChieu < today)
+                .OrderByDescending(x => x.NgayKhoiChieu)
+                .ToList();
+
+            PagedList<Phim> lst = new PagedList<Phim>(lstsanpham, pageNumber, pageSize);
+
+            return View(lst);
+        }
 
         public IActionResult Privacy()
         {
